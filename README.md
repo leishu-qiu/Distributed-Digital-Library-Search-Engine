@@ -1,4 +1,4 @@
-# Milestone6: Cloud Deployment
+# Milestone 6: Cloud Deployment
 
 ## Usage
 
